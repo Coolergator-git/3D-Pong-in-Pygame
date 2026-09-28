@@ -35,6 +35,6 @@ Be sure the directory you've created something looks like this:
 3D Pong/
 ├── 3D_Pong.py
 └── images/
-     ├── 3D_Pong.ico
-     └── 3D_Pong.png
+    ├── 3D_Pong.ico
+    └── 3D_Pong.png
 ```
