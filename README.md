@@ -1,6 +1,6 @@
 # 3D-Pong-in-Pygame
 
-<img width="1280" height="720" alt="3D_Pong" src="https://github.com/user-attachments/assets/593704de-1fde-486c-9e61-34e6cbc7a13c" />
+<img width="640" height="360" alt="3D_Pong" src="https://github.com/user-attachments/assets/593704de-1fde-486c-9e61-34e6cbc7a13c" />
 
 ## https://youtu.be/pO-TjI3w3Yo
 
@@ -29,7 +29,7 @@ pip install PyOpenGL_accelerate
 ```
 Finally, run **3D_Pong.py**. Hopefully everything goes right and game just runs.
 
-Be sure the directory you've created something looks like this:
+Be sure the directory you've created looks something like this:
 
 ```
 3D Pong/
