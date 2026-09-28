@@ -8,8 +8,8 @@ This is a very simple and bare-bones version of 3D Pong created in Pygame.
 > (and PyOpenGL, of course.)
 
 ### Player Controls
-- Player 1 (Red Paddle) A D
-- Player 2 (Blue Paddle) Left Right
+- Player 1 (Red Paddle): A and D
+- Player 2 (Blue Paddle): Left and Right Arrow Keys
 
 Spacebar to reset the game.
 
