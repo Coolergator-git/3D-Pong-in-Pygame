@@ -20,7 +20,7 @@ First to **6** points wins!
 There's a functional .exe provided but...
 
 If you want to run the raw scripts, you'll need to download the **images** folder and **3D_Pong.py**.
-You'll also need to have **Python (3.14+)** installed. Then, load the files into your IDE of choice and install these imports:
+You'll also need to have **Python (3.14+)** installed. Then, load the files into your IDE of choice and install these imports by typing them in terminal:
 
 ```
 pip install pygame-ce
