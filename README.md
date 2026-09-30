@@ -8,13 +8,13 @@ This is a very simple and bare-bones version of 3D Pong created in Pygame.
 > (and PyOpenGL, of course.)
 
 ### Player Controls
-- Player 1 (Red Paddle): A and D
-- Player 2 (Blue Paddle): Left and Right Arrow Keys
+- Player 1 (Red Paddle): **A** and **D**
+- Player 2 (Blue Paddle): **Left** and **Right** Arrow Keys
 
-Spacebar to reset the game.
+**Spacebar** to reset the game.
 
 ### Win Condition
-First to 6 points wins!
+First to **6** points wins!
 
 ### Import Requirements
 There's a functional .exe provided but...
@@ -22,7 +22,7 @@ There's a functional .exe provided but...
 If you want to run the raw scripts, you'll need to download the **images** folder and **3D_Pong.py**.
 You'll also need to have **Python (3.14+)** installed. Then, load the files into your IDE of choice and install these imports:
 
-```command prompt
+```
 pip install pygame-ce
 pip install PyOpenGL
 pip install PyOpenGL_accelerate
